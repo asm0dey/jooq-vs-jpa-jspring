@@ -1,0 +1,18 @@
+{
+  "name": "jooq-vs-jpa",
+  "private": true,
+  "packageManager": "bun@1.1.0",
+  "scripts": {
+    "dev": "slidev --open",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@iconify-json/logos": "latest",
+    "@iconify-json/mdi": "latest",
+    "@iconify-json/twemoji": "latest",
+    "@slidev-polls/component": "^0.2.1",
+    "@slidev/cli": "^52.0.0",
+    "@slidev/theme-seriph": "latest"
+  }
+}
